@@ -12,3 +12,4 @@ TODO:
  - Add a basic cheatsheet.md of common commands.
  - Add a terminology cheatsheet to refer to? common terms and what they mean?
  - Move the answers to a separate answers.md page.
+ - Get someone to test the practical and get feedback.
